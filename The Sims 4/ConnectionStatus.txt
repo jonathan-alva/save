@@ -1,6 +1,6 @@
-ConnectivityStatus		Localtime: 2020/09/05 16:17:24		Utc: 2020/09/05 09:17:24
+ConnectivityStatus		Localtime: 2020/09/07 17:28:31		Utc: 2020/09/07 10:28:31
 Host name is DESKTOP-6F4PIVR.
-	1) Address: 192.168.43.24
+	1) Address: 127.0.0.1
 
 ShardAddress: 159.153.74.8
 ProtocolVersion: 0
@@ -28,7 +28,7 @@ Kill Switches:
 1 SERVICE_FLAG_FACEBOOK_CASDEMO
 0 SERVICE_FLAG_SPOTLIGHT
 0 SERVICE_FLAG_BUGSENTRY
-0 SERVICE_FLAG_BUGSENTRY_EXCEPTIONS
+1 SERVICE_FLAG_BUGSENTRY_EXCEPTIONS
 1 SERVICE_FLAG_RECOMMENDATION_ENGINE_ALONE
 0 SERVICE_FLAG_DISABLE_PHOTO_TEXTURES
 1 SERVICE_FLAG_FACEBOOK
@@ -59,7 +59,7 @@ Connectivity Checklist:
 0 kConnectedToOnlineServices
 0 kJustGotOnlineServices
 0 kJustLostOnlineServices
-1 kInternetConnected
+0 kInternetConnected
 1 kOriginAppConnected
 0 kCDNWebServerConnected
 0 kOriginOnlineMode
